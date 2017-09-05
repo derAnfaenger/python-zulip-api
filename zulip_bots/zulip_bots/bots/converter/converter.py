@@ -40,7 +40,7 @@ class ConverterHandler(object):
                This plugin allows users to make conversions between
                various units, e.g. Celsius to Fahrenheit,
                or kilobytes to gigabytes. It looks for messages of
-               the format '@mention-bot <number> <unit_from> <unit_to>'
+               the fot '@mention-bot <number> <unit_from> <unit_to>'
                The message '@mention-bot help' posts a short description of
                how to use the plugin, along with a list of
                all supported units.
